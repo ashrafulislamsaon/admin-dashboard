@@ -1,0 +1,9 @@
+.sideContainer{
+  display: flex;
+}
+.homeContent{
+  flex: 4;
+}
+li{
+  list-style: none;
+}
